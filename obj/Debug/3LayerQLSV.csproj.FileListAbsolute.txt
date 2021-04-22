@@ -1,0 +1,11 @@
+E:\Code\Project\.NETVS\BT\3LayerQLSV\bin\Debug\3LayerQLSV.exe.config
+E:\Code\Project\.NETVS\BT\3LayerQLSV\bin\Debug\3LayerQLSV.exe
+E:\Code\Project\.NETVS\BT\3LayerQLSV\bin\Debug\3LayerQLSV.pdb
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\3LayerQLSV.csprojAssemblyReference.cache
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\_3LayerQLSV.Form1.resources
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\_3LayerQLSV.GUI.Form2.resources
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\_3LayerQLSV.Properties.Resources.resources
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\3LayerQLSV.csproj.GenerateResource.cache
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\3LayerQLSV.csproj.CoreCompileInputs.cache
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\3LayerQLSV.exe
+E:\Code\Project\.NETVS\BT\3LayerQLSV\obj\Debug\3LayerQLSV.pdb
