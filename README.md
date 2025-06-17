@@ -1,2 +1,2 @@
->[!information]
+>[!NOTE]
 >M3Layer
